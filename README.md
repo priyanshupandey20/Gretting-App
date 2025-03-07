@@ -46,11 +46,14 @@ Follow these steps to run the project locally:
 
 **1️⃣ Clone the Repository**
 git clone https://github.com/priyanshupandey20/Gretting-App.git
+
 cd Gretting-App
 
 **2️⃣ Install Dependencies**
 Navigate to the frontend directory and install required packages:
+
 cd frontend
+
 npm install
 
 **3️⃣ Start the Development Server**
