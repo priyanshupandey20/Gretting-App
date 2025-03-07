@@ -10,6 +10,7 @@
 The Greeting App is an interactive web application that generates personalized greetings using speech synthesis. Users can enter or speak their names, choose a greeting style, and adjust the voice pitch and speed for a customized experience.
 
 
+
 **🚀 Features**
 
 ✅ Personalized Greetings: Enter or speak your name for a custom greeting.
