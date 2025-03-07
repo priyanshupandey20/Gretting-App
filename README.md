@@ -1,6 +1,7 @@
 **Greeting App 🎉**
 
 **Live Demo: https://gretting-app.vercel.app/**
+
 **GitHub Repository: GitHub - https://github.com/priyanshupandey20/Gretting-App.git**
 
 **📌 Overview**
@@ -8,18 +9,28 @@ The Greeting App is an interactive web application that generates personalized g
 
 **🚀 Features**
 ✅ Personalized Greetings: Enter or speak your name for a custom greeting.
+
 ✅ Speech Recognition: Supports voice input for a hands-free experience.
+
 ✅ Text-to-Speech: Converts greetings to speech using Web Speech API.
+
 ✅ Customizable Voice Settings: Adjust speed and pitch for a unique greeting tone.
+
 ✅ Multiple Greeting Styles: Choose from different greeting styles for variety.
+
 ✅ Dark & Light Mode Support: Toggle between dark and light themes for better usability.
+
 ✅ Responsive Design: Fully optimized for desktop and mobile screens.
 
 **🛠️ Technologies Used**
 Frontend: React.js, Tailwind CSS
+
 State Management: React Hooks
+
 Speech API: Web Speech API for voice input and text-to-speech
+
 Deployment: Vercel
+
 
 **📥 Installation & Setup**
 Follow these steps to run the project locally:
