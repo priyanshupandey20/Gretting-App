@@ -12,7 +12,7 @@ function App() {
     const [selectedGreeting, setSelectedGreeting] = useState("default");
 
     const greetings = {
-        default: "Hello, {name}! Have an amazing day! 🎉",
+        default: "Hello, {name}! Welcome to Younglabs! 🎉",
         funny: "Hey {name}, you're awesome! Now go take over the world! 😆",
         motivational: "{name}, you're doing great! Keep pushing forward! 🚀",
         friendly: "Welcome, {name}! Stay awesome! 💖"
