@@ -13,19 +13,19 @@ The Greeting App is an interactive web application that generates personalized g
 
 **🚀 Features**
 
-✅ Personalized Greetings: Enter or speak your name for a custom greeting.
+**✅ Personalized Greetings:** Enter or speak your name for a custom greeting.
 
-✅ Speech Recognition: Supports voice input for a hands-free experience.
+**✅ Speech Recognition:** Supports voice input for a hands-free experience.
 
-✅ Text-to-Speech: Converts greetings to speech using Web Speech API.
+**✅ Text-to-Speech:** Converts greetings to speech using Web Speech API.
 
-✅ Customizable Voice Settings: Adjust speed and pitch for a unique greeting tone.
+**✅ Customizable Voice Settings:** Adjust speed and pitch for a unique greeting tone.
 
-✅ Multiple Greeting Styles: Choose from different greeting styles for variety.
+**✅ Multiple Greeting Styles:** Choose from different greeting styles for variety.
 
-✅ Dark & Light Mode Support: Toggle between dark and light themes for better usability.
+**✅ Dark & Light Mode Support:** Toggle between dark and light themes for better usability.
 
-✅ Responsive Design: Fully optimized for desktop and mobile screens.
+**✅ Responsive Design:** Fully optimized for desktop and mobile screens.
 
 
 **🛠️ Technologies Used**
