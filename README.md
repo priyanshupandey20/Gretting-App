@@ -4,10 +4,14 @@
 
 **GitHub Repository: GitHub - https://github.com/priyanshupandey20/Gretting-App.git**
 
+
 **📌 Overview**
+
 The Greeting App is an interactive web application that generates personalized greetings using speech synthesis. Users can enter or speak their names, choose a greeting style, and adjust the voice pitch and speed for a customized experience.
 
+
 **🚀 Features**
+
 ✅ Personalized Greetings: Enter or speak your name for a custom greeting.
 
 ✅ Speech Recognition: Supports voice input for a hands-free experience.
@@ -22,6 +26,7 @@ The Greeting App is an interactive web application that generates personalized g
 
 ✅ Responsive Design: Fully optimized for desktop and mobile screens.
 
+
 **🛠️ Technologies Used**
 
 Frontend: React.js, Tailwind CSS
@@ -31,6 +36,7 @@ State Management: React Hooks
 Speech API: Web Speech API for voice input and text-to-speech
 
 Deployment: Vercel
+
 
 
 **📥 Installation & Setup**
@@ -49,6 +55,7 @@ npm install
 **3️⃣ Start the Development Server**
 npm start
 
+
 **📌 Usage**
 
 1️⃣ Enter or Speak Your Name – Type your name or use voice input.
@@ -60,6 +67,7 @@ npm start
 4️⃣ Generate Greeting – Click "Get Greeting" to hear your personalized message.
 
 5️⃣ Repeat Greeting – Replay the generated greeting anytime.
+
 
 **🌟 Why Use This App?**
 
